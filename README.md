@@ -1,7 +1,10 @@
 # Graphin Mobile Support
 
 这个项目为了展示怎么用Graphin在移动手机端实现`画布拖动`和`节点拖动`的功能。
-This project is created to demo how to enable `canvas drag` and `node drag` on mobile devices using Graphin.
+This project is created to demo how to enable `canvas drag` and `node drag` on mobile devices using Graphin. 
+
+可能还有小bug和可以优化的地方，欢迎大家提出来，或是直接提PR.
+There might be some bugs or improvements to make. You are welcome to give any advice, or send a PR directly.
 
 To try it out, try this link on your mobile browser: <https://fmtgt.csb.app/>
   - SandBox Code is here: <https://codesandbox.io/s/gallant-davinci-fmtgt?file=/index.jsx:0-2442>
