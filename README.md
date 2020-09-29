@@ -5,6 +5,8 @@ npx create-react-app my-app
 cd src/
 rm -f *
 cd ..
+
+npm install --save @antv/graphin
 ```
 
 ## Available Scripts
