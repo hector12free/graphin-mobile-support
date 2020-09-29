@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```bash
 npx create-react-app my-app
+cd src/
+rm -f *
+cd ..
 ```
 
 ## Available Scripts
